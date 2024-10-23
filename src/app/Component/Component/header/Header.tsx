@@ -1,5 +1,5 @@
 import React from 'react'
-import Style from "../header/Hero.module.css"
+import Style from "../header/Header.module.css"
 import Link from 'next/link'
 
 const Header = () => {
