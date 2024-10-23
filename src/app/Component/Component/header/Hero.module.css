@@ -1,11 +1,16 @@
 .box{
   height: 16;
-  background-color: darkcyan;
-  text-align: center;
+  /* background-color: rgb(57, 226, 252); */
+  /* text-align: center; */
   font-size: larger;
   padding: 8px;
-  color: white;
+  color: black;
   cursor: pointer;
+  
+
+  
+  
+ 
 }
  
 

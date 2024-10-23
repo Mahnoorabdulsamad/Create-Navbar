@@ -6,8 +6,8 @@ import Footer from './Component/Footer/Footer'
 
 const HomePage = () => {
   return (
-    <div>
-  <Header/>
+    <div className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500'>
+  <Header />
   <Hero/>
   <Footer/>
 
